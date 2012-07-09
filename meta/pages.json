@@ -1,5 +1,8 @@
 {
   "home": {
     "size": 1
+  },
+  "blog": {
+    "size": 1
   }
 }
